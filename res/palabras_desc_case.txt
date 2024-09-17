@@ -1,0 +1,11 @@
+robot
+motocicleta
+camion
+aeropuerto
+Tractor
+Submarino
+Rascacielos
+Helicoptero
+Cohete
+Barco
+Avioneta
